@@ -12,6 +12,10 @@ Requires Node to be installed to run this app.
 
 `serve -s build`
 
+The source code for the part of this app that was built in React is in the `src` folder. It is not used when deploying using `serve`.
+
+The `build` folder contains the production build for this app.
+
 For more information on how to deploy, see: https://facebook.github.io/create-react-app/docs/deployment.
 
 ## Usage
